@@ -28,9 +28,7 @@ const sidebar = () => {
                   <img src={assets.message_icon} alt="" />
                   <p>{item.slice(0,18)} ...</p>
                 </div>
-
               )
-
             })}
 
           </div>
